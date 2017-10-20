@@ -1,7 +1,7 @@
 {
-  "name": "sendgrid-bulk",
+  "name": "NodejsStartedKit",
   "version": "1.0.0",
-  "description": "Sendgrid-bulk",
+  "description": "NodejsStartedKit",
   "main": "./src/index.js",
   "engines": {
     "node": "8.4.0"
